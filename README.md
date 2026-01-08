@@ -185,16 +185,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or collaboration opportunities, please reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Portfolio Website](https://yourwebsite.com)
+- **Email**: mahmud962002@gmail.com 
+- **LinkedIn**: www.linkedin.com/in/mahmoud-wahman-a41848217
 
 ## 📚 References
 
 - He, K., et al. (2016). "Deep Residual Learning for Image Recognition"
 - Ronneberger, O., et al. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation"
-- [Add relevant research papers and resources]
-
----
-
-**Note**: This project was developed as a graduation project and is intended for educational and research purposes. It should not be used as a substitute for professional medical diagnosis.
+- https://imagej.net/ij/docs/index.html
+- 
